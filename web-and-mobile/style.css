@@ -1,0 +1,18 @@
+p
+{
+    color: blue;
+}
+
+.header-background
+{
+    background-color: black;
+    color: white;
+    text-decoration: underline;
+
+}
+
+#bigger-font
+{
+    font-family: arial, Helvetica, sans-serif;
+    font-size: 32px;
+}
